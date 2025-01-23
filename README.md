@@ -1,2 +1,1 @@
-# Curso-Henry
-es el tercer intento de repositorio
+Las reacciones quimicas son cambios que ocurren en el interior de la materia
